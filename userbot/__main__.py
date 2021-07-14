@@ -25,7 +25,7 @@ async def startup_log_all_done():
     try:
         await bot.send_message(
             TELE,
-            f"**FIGHTERBOT has been deployed.\nSend** `{CMD_HNDLR}alive` **to see if the bot is working.\n\nAdd** @{BOTNAME} **to this group and make it admin for enabling all the features of userbot**",
+            f"**EDITH has been deployed.\nSend** `{CMD_HNDLR}alive` **to see if the bot is working.\n\nAdd** @{BOTNAME} **to this group and make it admin for enabling all the features of userbot**",
         )
     except BaseException:
         print("Either PRIVATE_GROUP_ID is wrong or you have left the group.")
@@ -59,9 +59,9 @@ for name in files:
          load_module(shortname.replace(".py", ""))
         except Exception:
             pass
-print("FIGHTERBOT has been deployed! ")
+print("EDITH has been deployed! ")
 
-print("Setting up FIGHTERBOT")
+print("Setting up EDITH")
 
 
 if Config.ENABLE_ASSISTANTBOT == "ENABLE":
@@ -77,7 +77,7 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
              load_assistant(shortname.replace(".py", ""))
             except Exception:
                 pass
-    sed.info("FIGHTERBOT Has Been Deployed Successfully !")
+    sed.info("EDITH Has Been Deployed Successfully !")
     sed.info("╔════❰ Ⲃⲟⲧ Ⲓⲛϝⲟʀⲙⲁⲧⲓⲟⲛ ❱═❍⊱❁۪۪")
     sed.info("║┣⪼ Ⲟⲱⲛⲉʀ - FIGHTERBOT ᴜꜱᴇʀ ")
     sed.info("║┣⪼ Ⲋⲧⲁⲧυⲋ - Ⲟⲛⳑⲓⲛⲉ")
@@ -86,12 +86,12 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
     sed.info("║┣⪼ Ⲃⲟⲧ Ⲣⲓⲛⳋ - 0.006")
     sed.info("║┣⪼ Ⲣⲩⲧⲏⲟⲛ - 3.9.2")
     sed.info("║┣⪼ Ⲧⲉⳑⲉⲧⲏⲟⲛ - 1.17.0 ")
-    sed.info("║┣⪼ ✨�FIGHTERBOT 𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨")
+    sed.info("║┣⪼ ✨EDITH Userbot✨")
     sed.info("║╰━━━━━━━━━━━━━━━➣ ")
     sed.info("╚══════════════════❍⊱❁۪۪")
 else:
-    sed.info("FIGHTERBOT Has Been Installed Sucessfully !")
-    sed.info("You Can Visit @fighterbot_support For Any Support Or Doubts")
+    sed.info("EDITH Has Been Installed Sucessfully !")
+    sed.info("You Can Visit @Noobiehub For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()

@@ -31,7 +31,7 @@ ALIVE_PIC = Config.ALIVE_PHOTTO
 
 if ALIVE_PIC is None :
 
-    ALIVE_PIC = "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg"
+    ALIVE_PIC = "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg"
 
 botversion = "1.0"
 
@@ -95,7 +95,7 @@ async def alive(e):
     uptime = get_readable_time((time.time() - Lastupdate))
 
     cap = """
-**�FIGHTERBOT Userbot**
+**�EDITH Userbot**
 **{}**
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ Ⲃⲟⲧ Ⲓⲛϝⲟʀⲙⲁⲧⲓⲟⲛ ❱═❍⊱❁۪۪
@@ -107,7 +107,7 @@ async def alive(e):
 ║┣⪼ **Ⲃⲟⲧ Ⲣⲓⲛⳋ** - `{}`
 ║┣⪼ **Ⲣⲩⲧⲏⲟⲛ** - `{}` 
 ║┣⪼ **Ⲧⲉⳑⲉⲧⲏⲟⲛ** - `{}` 
-║┣⪼ [✨�FIGHTERBOT✨](https://github.com/ComradeDear/FIGHTERBOT/)
+║┣⪼ [✨EDITH✨](https://github.com/)
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪
 """.format(
 

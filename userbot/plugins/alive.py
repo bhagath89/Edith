@@ -23,10 +23,10 @@ global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg"
-file2 = "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg"
-file3 = "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg"
-file4 = "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg"
+file1 = "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg"
+file2 = "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg"
+file3 = "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg"
+file4 = "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg"
 """ =======================CONSTANTS====================== """
 
 
@@ -39,11 +39,11 @@ async def hmm(yes):
     ghanti = borg.uid
     await yes.delete()
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
-    pm_caption = "** �FIGHTERBOT 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
+    pm_caption = "** �EDITH 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
     pm_caption += "**Yes Master, Am Alive And Systems Are Working Perfectly...**\n\n"
     pm_caption += "✘ About My System ✘\n\n"
     pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
-    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/fighterbot_support)\n"
+    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/minibotz)\n"
     pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/ComradeDear)\n"
     pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [𝙳𝙰𝚁𝙺-𝙲𝙾𝙱𝚁𝙰](https://github.com/ComradeDear/FIGHTERBOT)\n\n"
     pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"

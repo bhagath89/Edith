@@ -1,7 +1,7 @@
 {
-  "name": "FIGHTERBOT - UserBot",
-  "description": "An advanced Telethon Userbot, by @Dear_Comradee",
-  "logo": "https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg",
+  "name": "Edith - UserBot",
+  "description": "An advanced Telethon Userbot, by @FlyingKILI",
+  "logo": "https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg",
   "keywords": [
    "telegram",
    "userbot",
@@ -9,9 +9,9 @@
    "modular",
    "productivity"
   ],
-  "repository": "https://github.com/ComradeDear/FIGHTERBOT",
-  "website": "https://github.com/ComradeDear/FIGHTERBOT",
-  "success_url": "https://t.me/fighterbot_support",
+  "repository": "https://github.com/bhagath89/Edith",
+  "website": "https://github.com/bhagath89/Edith",
+  "success_url": "https://t.me/noobiehub",
   "stack": "container",
   "env": {
    "ENV": {
@@ -138,12 +138,12 @@
     "required": false
    },
    "TG_GRUP": {
-    "description": "Telegram Grup Name Starts With @ like, @fighterbot_support_group, If No Name Leave It Default. Required For Alive ",
+    "description": "Telegram Grup Name Starts With @ like, @noobiehub, If No Name Leave It Default. Required For Alive ",
     "value": "Not Yet😁😁",
     "required": true
    }, 
    "TG_CHANNEL": {
-    "description": "Telegram Channel  Starts With @ like @fighterbott, If No Channel Leave It Default. Required For Alive ",
+    "description": "Telegram Channel  Starts With @ like @FlyingKILI, If No Channel Leave It Default. Required For Alive ",
     "value": "Not Yet😁😁",
     "required": true
    }, 

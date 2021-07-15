@@ -1,10 +1,10 @@
-# Owner: ᗪEᗩᖇ ᑕOᗰᖇᗩᗪE and helper bro KARTIKAY
-[![FIGHTERBOT ℓσgσ](https://telegra.ph/file/3bc2b89fd6fe407ebcaeb.jpg)](https://t.me/fighterbot_support)
+# Owner: GOD
+[![EDITH ℓσgσ](https://telegra.ph/file/7d79dfe3b10b6058063b0.jpg)](https://t.me/noobiehub)
 
-# FIGHTERBOT USERBOT
+# Edith USERBOT
 * Hello guys presenting the most powerful and secure telegram userbot made with the help of all other userbots present in telegram.
 * DEPLOY
-* [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FComradeDear%2FFIGHTERBOT)
+* [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbhagath89%2FEdith)
  
 
 
